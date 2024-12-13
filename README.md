@@ -43,7 +43,6 @@ src="https://img.shields.io/github/followers/krishnadev7?logo=github&style=for-t
 
 <h2>Contacto</h2>
 <div align="center">
-  <h4>Herramientas</h4>
   <p align="center">
   <a href="https://www.linkedin.com/in/maurodev">
     <img src="https://skillicons.dev/icons?i=linkedin" />
