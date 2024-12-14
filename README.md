@@ -65,9 +65,34 @@ Backend Developer Junior
     MeetSounds es una red social innovadora diseñada para conectar a personas apasionadas por la música, músicos y bandas. Nuestra plataforma proporciona un espacio único para     
     colaborar, interactuar y crecer dentro del mundo de la música.
   </h4>
+ 
+  
+  
   <a href="https://meetsounds.netlify.app/login">
-    www.MeetSounds.com
+    <img src="https://github.com/Mauro-707/Mauro-707/blob/main/Captura%20de%20pantalla%202024-12-06%20100847.png?raw=true" width="500px">
+    <img src="https://github.com/Mauro-707/Mauro-707/blob/main/Captura%20de%20pantalla%202024-12-06%20101035.png?raw=true" width="500px">
+    <img src="https://github.com/Mauro-707/Mauro-707/blob/main/Captura%20de%20pantalla%202024-12-06%20101109.png?raw=true" width="500px">
+    <img src="https://github.com/Mauro-707/Mauro-707/blob/main/Captura%20de%20pantalla%202024-12-06%20101157.png?raw=true" width="500px">
   </a>
+  <h3 >Lenguajes y herramientas utilizadas</h3>
+<div align="center">
+    <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=spring,react,mongo,graphql,vscode,git,aws" />
+  </a>
+</p>
+</div>
+ <h4>Miembros del equipo</h4>
+    <ul>
+      <li>MauroB_dev (Frontend)</li>
+      <li>German (Frontend)</li>
+      <li>Emiliano (Frontend)</li>
+      <br>
+      <li>Leonardo (Backend)</li>
+      <li>Joaco (Backend)</li>
+    </ul>
+
+<h4>Estado: Pausado❗....</h4>
   
 </div>
 
