@@ -5,16 +5,15 @@ Backend Developer Junior
 ------------------------------
 
 
-* 🌍  Soy de Argentina,Mendoza😀
-* ✉️  Mi email de trabajo es [mauroberni002@gmail.com](mailto:krishnadevv12@gmail.com)
-* 📖  Actualmente estoy cursando el 3ro año de la carrera "Tecnicatura superior en desarrollo de software"
-* 🤝  Estoy abierto a colaborar en nuevos proyectos
-* 📘  Estoy enfocado a mejorar mis habilidades como desarrollador backend 
-* 📗  Tambien cuanto con habilidades para el desarrollo fontend
+🌍 Soy de Mendoza, Argentina  
+✉️ Puedes contactarme en: [mauroberni002@gmail.com](mailto:mauroberni002@gmail.com)  
+📖 Estudiante de 3er año en "Tecnicatura Superior en Desarrollo de Software"  
+🤝 Abierto a colaborar en nuevos proyectos  
+📘 Enfocado en mejorar como desarrollador **backend**  
+📗 Con habilidades adicionales en desarrollo **frontend** 
 
 
-<a href="https://www.github.com/krishnadev7" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/krishnadev7?logo=github&style=for-the-badge&color=ef4444&labelColor=0f172a" /></a>
+
 <h2 >Lenguajes</h2>
 <div align="center">
   <h4>Backend</h4>
@@ -54,5 +53,21 @@ src="https://img.shields.io/github/followers/krishnadev7?logo=github&style=for-t
 </div>
 
 
+<h2>Proyectos</h2>
+<div >
+  <h3>MeetSounds</h3>
+  <p>
+    <a href="https://www.linkedin.com/in/maurodev">
+      <img src="https://github.com/beatbuilders/meetsounds/blob/main/frontend/src/assets/Logo1.png?raw=true" width="200px" height="130px"/>
+    </a>
+  </p>
+  <h4>
+    MeetSounds es una red social innovadora diseñada para conectar a personas apasionadas por la música, músicos y bandas. Nuestra plataforma proporciona un espacio único para     
+    colaborar, interactuar y crecer dentro del mundo de la música.
+  </h4>
+  <a href="https://github.com/beatbuilders/meetsounds">
+    Repositorio
+  </a>
   
+</div>
 
