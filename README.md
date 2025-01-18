@@ -1,108 +1,100 @@
-Hola!, soy Mauro ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
-==================================================================================================================================
+<h1 align="left">Hey 👋 What's up?</h1>
 
-Backend Developer Junior
-------------------------------
+###
 
+<p align="left">Mi nombre es Mauro, soy de Mendoza, Argentina.</p>
 
-🌍 Soy de Mendoza, Argentina  
-✉️ Puedes contactarme en: [mauroberni002@gmail.com](mailto:mauroberni002@gmail.com)  
-📖 Estudiante de 3er año en "Tecnicatura Superior en Desarrollo de Software"  
-🤝 Abierto a colaborar en nuevos proyectos  
-📘 Enfocado en mejorar como desarrollador **backend**  
-📗 Con habilidades adicionales en desarrollo **frontend** 
+###
 
+<h2 align="left">About me</h2>
 
+###
 
-<h2 >Lenguajes</h2>
+<p align="left">📚 Estudiante de 3er año en "Tecnicatura Superior en Desarrollo de Software"<br>✉️ Puedes contactarme en: mauroberni002@gmail.com<br>🤝 Abierto a colaborar en nuevos proyectos<br>✨ Enfocado en mejorar como desarrollador backend<br>🎯 Con habilidades adicionales en desarrollo frontend</p>
+
+###
+
+<h2 align="left">Lenguajes</h2>
+
+###
+
+<h4 align="left">Los lenguajes que uso para el backend son...</h4>
+
+###
+
 <div align="center">
-  <h4>Backend</h4>
-    <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,django,mysql" />
-  </a>
-</p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="50" alt="django logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="mysql logo"  />
 </div>
+
+###
+
+<h4 align="left">para el frontend...</h4>
+
+###
+
 <div align="center">
-  <h4>Frontend</h4>
-  <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,react" />
-  </a>
-</p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css3 logo"  />
 </div>
+
+###
+
+<h4 align="left">y las herramientas que uso para el desarrollo son..</h4>
+
+###
+
 <div align="center">
-  <h4>Herramientas</h4>
-  <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,vscode,postman" />
-  </a>
-</p>
+  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="50" alt="postman logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="50" alt="github logo"  />
 </div>
 
-<h2>Contacto</h2>
+###
+
+<h2 align="left">Contact</h2>
+
+###
+
 <div align="center">
-  <p align="center">
-  <a href="https://www.linkedin.com/in/maurodev">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  <a href="mailto:mauroberni002@example.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
-</p>
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="62" height="50" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="62" height="50" alt="discord logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="62" height="50" alt="gmail logo"  />
 </div>
 
+###
 
+<h2 align="left">My statistics</h2>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Mauro-707&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Mauro-707&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mauro-707&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+###
 
----
-[![](https://visitcount.itsvg.in/api?id=Mauro-707&icon=3&color=1)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-<h2>Proyectos</h2>
-<div >
-  <h3>MeetSounds</h3>
-  <p>
-    <a href="https://www.linkedin.com/in/maurodev">
-      <img src="https://github.com/beatbuilders/meetsounds/blob/main/frontend/src/assets/Logo1.png?raw=true" width="200px" height="130px"/>
-    </a>
-  </p>
-  <h4>
-    MeetSounds es una red social innovadora diseñada para conectar a personas apasionadas por la música, músicos y bandas. Nuestra plataforma proporciona un espacio único para     
-    colaborar, interactuar y crecer dentro del mundo de la música.
-  </h4>
- 
-  
-  
-  <a href="https://meetsounds.netlify.app/login">
-    <img src="https://github.com/Mauro-707/Mauro-707/blob/main/Captura%20de%20pantalla%202024-12-06%20100847.png?raw=true" width="500px">
-    <img src="https://github.com/Mauro-707/Mauro-707/blob/main/Captura%20de%20pantalla%202024-12-06%20101035.png?raw=true" width="500px">
-    <img src="https://github.com/Mauro-707/Mauro-707/blob/main/Captura%20de%20pantalla%202024-12-06%20101109.png?raw=true" width="500px">
-    <img src="https://github.com/Mauro-707/Mauro-707/blob/main/Captura%20de%20pantalla%202024-12-06%20101157.png?raw=true" width="500px">
-  </a>
-  <h3 >Lenguajes y herramientas utilizadas</h3>
 <div align="center">
-    <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=spring,react,mongo,graphql,vscode,git,aws" />
-  </a>
-</p>
+  <img src="https://github-readme-stats.vercel.app/api?username=Mauro-707&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=es&hide_border=true&order=1" height="200" alt="stats graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mauro-707&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=true&order=2" height="200" alt="languages graph"  />
 </div>
- <h4>Miembros del equipo</h4>
-    <ul>
-      <li>MauroB_dev (Frontend)</li>
-      <li>German (Frontend)</li>
-      <li>Emiliano (Frontend)</li>
-      <br>
-      <li>Leonardo (Backend)</li>
-      <li>Joaco (Backend)</li>
-    </ul>
 
-<h4>Estado: Pausado❗....</h4>
-  
+###
+
+<h4 align="left">¡Gracias por visitar mi perfil de GitHub!</h4>
+
+###
+
+<img src="https://raw.githubusercontent.com/Mauro-707/Mauro-707/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Mauro-707/count.svg?"  />
 </div>
+
+###
