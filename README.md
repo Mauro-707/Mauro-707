@@ -51,6 +51,10 @@ Backend Developer Junior
   </a>
 </p>
 </div>
+
+
+
+# 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Mauro-707&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Mauro-707&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mauro-707&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
@@ -102,4 +106,3 @@ Backend Developer Junior
 <h4>Estado: Pausado❗....</h4>
   
 </div>
-
