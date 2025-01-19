@@ -89,8 +89,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Mauro-707/Mauro-707/output/snake.svg" alt="Snake animation" />
-
+![snake animation](https://github.com/Mauro-707/Mauro-707/blob/output/github-contribution-grid-snake2.svg)
 ###
 
 <div align="center">
