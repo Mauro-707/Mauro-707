@@ -80,6 +80,7 @@
 
 ###
 
+![snake gif](https://github.com/Mauro-707/Mauro-707/blob/output/github-contribution-grid-snake-dark.svg)
 
 
 
