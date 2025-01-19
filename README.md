@@ -62,15 +62,6 @@
 
 ###
 
-<h2 align="left">Contact</h2>
-
-###
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="62" height="50" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="62" height="50" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="62" height="50" alt="gmail logo"  />
-</div>
 
 ###
 
@@ -89,11 +80,18 @@
 
 ###
 
-![snake animation](https://github.com/Mauro-707/Mauro-707/blob/output/github-contribution-grid-snake2.svg)
+
+
+
+
 ###
+
+<h2 align="left">Contact</h2>
+
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/Mauro-707/count.svg?"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="62" height="50" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="62" height="50" alt="discord logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="62" height="50" alt="gmail logo"  />
 </div>
 
-###
